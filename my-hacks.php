@@ -1,0 +1,1 @@
+<?php require_once( WP_PLUGIN_DIR . '/lmbbox-wordpress-plugin-api/wordpress-plugin-api.php' ); ?>
